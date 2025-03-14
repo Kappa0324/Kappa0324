@@ -5,7 +5,8 @@
 |3 | 職稱 |無|
 |4 | 任職公司 | 無
 
-<img src="IMG_7611.jpeg" width="100" Height="100"<!--
+<img src="IMG_7611.jpeg" width="300" Height="300">
+<!--
 **Kappa0324/Kappa0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
