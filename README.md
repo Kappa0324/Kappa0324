@@ -5,7 +5,7 @@
 |3 | 職稱 |無|
 |4 | 任職公司 | 無
 
-<img src="IMG_7611.jpeg" width="300" Height="300">
+<img src="exported_qrcode_image_600 (1).png" width="300" Height="300">
 <!--
 **Kappa0324/Kappa0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.youtube.com/watch?v=AG71F5Tg1UA" target="_blank">網紅觀察室Joeman</a>
+<br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AG71F5Tg1UA" target="_blank"><img src="http://img.youtube.com/vi/AG71F5Tg1UA/0.jpg" 
+alt="網紅觀察室Joeman" width="800" height="500" border="10" /></a>
+<br>影片取自 youtube
