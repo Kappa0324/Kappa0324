@@ -6,10 +6,6 @@
 |4 | 任職公司 | 無
 
 <img src="exported_qrcode_image_600 (1).png" width="300" Height="300">
-<!--
-**Kappa0324/Kappa0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=arxHyiDv7VQ" target="_blank">倫敦智慧城市</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=arxHyiDv7VQ" target="_blank"><img src="http://img.youtube.com/vi/arxHyiDv7VQ/0.jpg" 
