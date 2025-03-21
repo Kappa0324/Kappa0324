@@ -11,10 +11,7 @@
 
 Here are some ideas to get you started:
 
-
-觀看影片一
-<a href="https://www.youtube.com/watch?v=arxHyiDv7VQ" target="_blank">日本5G宣傳概念影片</a>
-<br>
+<a href="https://www.youtube.com/watch?v=arxHyiDv7VQ" target="_blank">倫敦智慧城市</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=arxHyiDv7VQ" target="_blank"><img src="http://img.youtube.com/vi/arxHyiDv7VQ/0.jpg" 
-alt="日本5G宣傳概念影片" width="800" height="500" border="10" /></a>
+alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
