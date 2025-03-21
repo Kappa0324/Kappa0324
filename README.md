@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.youtube.com/watch?v=AG71F5Tg1UA" target="_blank">網紅觀察室Joeman</a>
+觀看影片一
+<a href="https://www.youtube.com/watch?v=AG71F5Tg1UA" target="_blank">日本5G宣傳概念影片</a>
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AG71F5Tg1UA" target="_blank"><img src="http://img.youtube.com/vi/AG71F5Tg1UA/0.jpg" 
-alt="網紅觀察室Joeman" width="800" height="500" border="10" /></a>
+alt="日本5G宣傳概念影片" width="800" height="500" border="10" /></a>
 <br>影片取自 youtube
